@@ -1,2 +1,2 @@
-# MNIST_accademic
-Accademic work on MNIST dataset (DNN,CNN,ResNet)
+# MNIST_academic
+Academic work on MNIST dataset (DNN,CNN,ResNet)
